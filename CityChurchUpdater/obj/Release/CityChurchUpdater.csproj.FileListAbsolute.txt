@@ -1,0 +1,8 @@
+C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\bin\Release\CityChurchUpdater.exe.config
+C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\bin\Release\CityChurchUpdater.exe
+C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\bin\Release\CityChurchUpdater.pdb
+C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\bin\Release\DropNet.dll
+C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\bin\Release\RestSharp.dll
+C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\bin\Release\RestSharp.xml
+C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\obj\Release\CityChurchUpdater.exe
+C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\obj\Release\CityChurchUpdater.pdb
