@@ -10,3 +10,9 @@ c:\users\shaun_eutsey\documents\visual studio 2012\Projects\CityChurchUpdater\Ci
 C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\bin\Debug\CityChurchUpdater.exe.config
 C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\obj\Debug\CityChurchUpdater.exe
 C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\obj\Debug\CityChurchUpdater.pdb
+C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\bin\Debug\CityChurchUpdater.exe
+C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\bin\Debug\CityChurchUpdater.pdb
+C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\bin\Debug\DropNet.dll
+C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\bin\Debug\RestSharp.dll
+C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\bin\Debug\RestSharp.xml
+C:\Users\shaun_eutsey\Documents\Visual Studio 2012\Projects\CityChurchUpdater.Net\CityChurchUpdater\obj\Debug\CityChurchUpdater.csprojResolveAssemblyReference.cache

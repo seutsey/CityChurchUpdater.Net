@@ -20,13 +20,13 @@ namespace CityChurchUpdater
             DateTime d = new DateTime(2000, 1, 1);
             foreach (var x in metadata.Contents)
             {
-                if (DateTime.Parse(x.Modified) > d)
+                if (DateTime.Parse(x.Modified) > d && x.Extension == ".jpg")
                 {
                     d = DateTime.Parse(x.Modified);
                     _db_path = x.Path;
                 }
             }
-
+       
             var _fileBytes = _client.GetFile(_db_path);
 
             FtpWebRequest _request = (FtpWebRequest)WebRequest.Create("ftp://citychurch.us/wp-content/uploads/whats_happening.jpg");
